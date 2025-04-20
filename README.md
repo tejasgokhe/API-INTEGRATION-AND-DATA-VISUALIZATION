@@ -40,3 +40,8 @@ Tools & Libraries Used:
 4)seaborn
 
 Platform Used:- Visual Studio Code
+
+#OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/cac743f4-92b1-4427-b99f-d1afe790ca7c)
+![Image](https://github.com/user-attachments/assets/7ec519ce-8298-4946-a61c-0622660abbdd)
